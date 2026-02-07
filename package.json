@@ -1,0 +1,19 @@
+{
+  "name": "redstore",
+  "version": "1.0.0",
+  "description": "Welcome to **RedStore**, a modern and responsive e-commerce website designed to showcase and sell cutting-edge gadgets. This project is built using HTML, CSS, and JavaScript, and includes animations and interactive features to enhance the user experience.",
+  "main": "cart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aayush481/redStore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aayush481/redStore/issues"
+  },
+  "homepage": "https://github.com/Aayush481/redStore#readme"
+}
